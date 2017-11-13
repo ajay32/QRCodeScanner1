@@ -55,6 +55,10 @@ public class MainActivity extends AppCompatActivity {
        });
     }
 
+    
+    //thing is simple if you getting json data then parse it in json ...or you getting simple or string data u can directly use it ,toast it or send the string to activity u want to use it
+    
+    
     //========== scan result
 
     //Getting the scan results
